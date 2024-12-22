@@ -21,6 +21,7 @@
     "@angular/router": "^17.1.0",
     "ngxtension": "^4.2.0",
     "rxjs": "~7.8.0",
+    "tailwind": "^4.0.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
   },
